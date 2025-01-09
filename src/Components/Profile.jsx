@@ -1,6 +1,6 @@
 import DonutChart from "./ProfileComponents/DonutChart";
 import ShortCut from "./ProfileComponents/ShortCut";
-import User from "./ProfileComponents/user";
+import User from "./ProfileComponents/User";
 
 const Profile = () => {
   return (
